@@ -1,0 +1,11 @@
+E:\workspace\rust-learning\guessing_game\target\debug\deps\rand_core-d8ef786588de543f.rmeta: C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\lib.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\error.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\block.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\impls.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\le.rs
+
+E:\workspace\rust-learning\guessing_game\target\debug\deps\librand_core-d8ef786588de543f.rlib: C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\lib.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\error.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\block.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\impls.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\le.rs
+
+E:\workspace\rust-learning\guessing_game\target\debug\deps\rand_core-d8ef786588de543f.d: C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\lib.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\error.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\block.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\impls.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\le.rs
+
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\lib.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\error.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\block.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\impls.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.4.2\src\le.rs:

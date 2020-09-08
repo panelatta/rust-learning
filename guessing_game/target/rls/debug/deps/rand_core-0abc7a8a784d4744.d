@@ -1,0 +1,10 @@
+e:\workspace\rust-learning\guessing_game\target\rls\debug\deps\rand_core-0abc7a8a784d4744.rmeta: C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\lib.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\error.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\block.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\impls.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\le.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\os.rs
+
+e:\workspace\rust-learning\guessing_game\target\rls\debug\deps\rand_core-0abc7a8a784d4744.d: C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\lib.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\error.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\block.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\impls.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\le.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\os.rs
+
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\lib.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\error.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\block.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\impls.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\le.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\rand_core-0.5.1\src\os.rs:

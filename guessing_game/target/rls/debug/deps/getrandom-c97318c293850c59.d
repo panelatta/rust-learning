@@ -1,0 +1,9 @@
+e:\workspace\rust-learning\guessing_game\target\rls\debug\deps\getrandom-c97318c293850c59.rmeta: C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\lib.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\error.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\util.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\error_impls.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\windows.rs
+
+e:\workspace\rust-learning\guessing_game\target\rls\debug\deps\getrandom-c97318c293850c59.d: C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\lib.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\error.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\util.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\error_impls.rs C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\windows.rs
+
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\lib.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\error.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\util.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\error_impls.rs:
+C:\Users\Panelatta\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\getrandom-0.1.14\src\windows.rs:
